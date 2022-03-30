@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/artgen/static/css/main.073c9b0a.css",
-    "main.js": "/artgen/static/js/main.46766c2c.js",
+    "main.css": "/artgen/static/css/main.8f92ff5f.css",
+    "main.js": "/artgen/static/js/main.bdb2ba4d.js",
     "index.html": "/artgen/index.html",
-    "main.073c9b0a.css.map": "/artgen/static/css/main.073c9b0a.css.map",
-    "main.46766c2c.js.map": "/artgen/static/js/main.46766c2c.js.map"
+    "main.8f92ff5f.css.map": "/artgen/static/css/main.8f92ff5f.css.map",
+    "main.bdb2ba4d.js.map": "/artgen/static/js/main.bdb2ba4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.46766c2c.js"
+    "static/css/main.8f92ff5f.css",
+    "static/js/main.bdb2ba4d.js"
   ]
 }
