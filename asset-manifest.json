@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/JaroslawChaykin.github.io/artgen/static/css/main.073c9b0a.css",
-    "main.js": "/JaroslawChaykin.github.io/artgen/static/js/main.46766c2c.js",
-    "index.html": "/JaroslawChaykin.github.io/artgen/index.html",
-    "main.073c9b0a.css.map": "/JaroslawChaykin.github.io/artgen/static/css/main.073c9b0a.css.map",
-    "main.46766c2c.js.map": "/JaroslawChaykin.github.io/artgen/static/js/main.46766c2c.js.map"
+    "main.css": "/artgen/static/css/main.073c9b0a.css",
+    "main.js": "/artgen/static/js/main.46766c2c.js",
+    "index.html": "/artgen/index.html",
+    "main.073c9b0a.css.map": "/artgen/static/css/main.073c9b0a.css.map",
+    "main.46766c2c.js.map": "/artgen/static/js/main.46766c2c.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
